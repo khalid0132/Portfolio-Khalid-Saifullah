@@ -9,8 +9,8 @@ const portfolios = [
     // {
     //     id: 1,
     //     category: 'Complete-Website',
-    //     link1: 'https://github.com/debrajdas8982/doctors-portal-client',
-    //     link2: 'https://doctors-portal-982cc.web.app/',
+    //     link1: '',
+    //     link2: '',
     //     icon1: 'GitHub',
     //     icon2: 'Live',
     //     image: port1,
@@ -27,7 +27,7 @@ const portfolios = [
         icon2: 'Live',
         image: port2,
         title: 'Food-Bank (Visättra Livs)',
-        description: 'A single page web application that allows the user to buy or order a particular food. They can go to the checkout section and order as much food as they want. :: Login Authentication (Private Route), Admin Panel (Add Product , Delete Product), Place Order , Order History With Date',
+        description: 'A single-page web application that allows the user to buy or order a particular food. They can go to the checkout section and order as much food as they want. :: Login Authentication (Private Route), Admin Panel (Add Product, Delete Product), Place Order, Order History With Date',
         technology: 'React.js,  JavaScript,  Node.js,  MongoDB,  Express.js,  CSS,  HTML5,  Bootstrap, ES6,  Firebase,  react  hook  form.'
     },
     {
@@ -39,7 +39,7 @@ const portfolios = [
         icon2: 'Live',
         image: 'https://i.postimg.cc/Bt9NTNXh/1.png',
         title: 'Traffic School (Traffikskolan)',
-        description: 'A single page web application that allows the student to book or order a particular time for driving slot and admin can make a lot. ::Login Authentication (Private Route), Admin Panel (Make Admin , Add Service , Delete Service), Dashboard (Book with Payment Gateway , Review)',
+        description: 'A single-page web application that allows the student to book or order a particular time for a driving slot and admin can make a lot. :: Login Authentication (Private Route), Admin Panel (Make Admin, Add Service, Delete Service), Dashboard (Book with Payment Gateway, Review)',
         technology: 'React JS, Bootstrap, Metarial UI, Node JS, Express JS, MongoDB, Firebase, ES6,  Firebase,  react  hook  form.'
     },
     {
@@ -51,7 +51,7 @@ const portfolios = [
         icon2: 'Live',
         image: port4,
         title: 'Stockholm Transport',
-        description: 'A single page web application that allows the passengers may book or order a particular time for riding and admin can make change the time table and etc. ::Login Authentication (Private Route), Admin Panel (Make Admin , Add Service , Delete Service), Dashboard (Book with Payment Gateway , Review)',
+        description: 'A single-page web application that allows the passengers may book or order a particular time for riding and admin can make change the time table and etc. :: Login Authentication (Private Route), Admin Panel (Make Admin, Add Service, Delete Service), Dashboard (Book with Payment Gateway, Review)',
         technology: 'React JS, Bootstrap, Metarial UI, Node JS, Express JS, MongoDB, Firebase, ES6,  Firebase,  react  hook  form.'
     }
   
