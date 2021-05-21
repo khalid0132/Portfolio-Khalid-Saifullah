@@ -1,6 +1,6 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
-import avatar from '../img/Khalid_profile.jpg'
+import avatar from '../img/khalid4.jpg'
 
 const NavBar = () => {
     return (
@@ -23,7 +23,7 @@ const NavBar = () => {
                     </li>
                     <li className="nav-item">
                         <NavLink to="/portfolios" exact activeClassName="active">
-                            My Works
+                            Projects
                         </NavLink>
                     </li>
                     <li className="nav-item">

@@ -1,5 +1,5 @@
 import React from 'react';
-import about from '../img/khalid1.jpg'
+import about from '../img/Khalid_profile.jpg'
 
 const ImageSection = () => {
     return (
