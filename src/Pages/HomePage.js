@@ -18,14 +18,14 @@ const HomePage = () => {
                     <h4 className="text-center">
                         <Typewriter 
                             options={{
-                                strings: ['Frontend Developer', 'React and JavaScript Expert', 'ICT Expert'],
+                                strings: ['Frontend Developer', 'React and JavaScript Developer', 'ICT Expert'],
                                          autoStart: true,
                                         loop: true,
                                     }}
                                     />
                                 </h4>
                 <p className="h-sub-text">
-                    working as a frontend developer at Zisson AB in Stockholm branch, Sweden which is norwegian based IT company. I'm looking for ways to put my IT knowledge and skills to use in a work environment.
+                    who is working as a frontend developer at Zisson AB in Stockholm branch, Sweden which is norwegian based IT company. I'm looking for ways to put my IT knowledge and skills to use in a work environment.
                     My IT education and  present work experience with some projects has given me a great foundation of knowledge and skills in development area.
                     I am able to catch new technologies quickly and apply those abilities to improve my work smoothly. Additionally, I'm good at JavaScript, React, HTML, CSS and database like MongoDB.
 
