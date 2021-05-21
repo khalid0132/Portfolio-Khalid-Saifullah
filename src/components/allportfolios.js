@@ -1,6 +1,6 @@
-import port1 from '../img/portImages/doctors_portal.png';
+// import port1 from '../img/portImages/doctors_portal.png';
 import port2 from '../img/portImages/Livs1.png';
-import port3 from '../img/portImages/trafic_school.png';
+// import port3 from '../img/portImages/trafic_school.png';
 import port4 from '../img/portImages/transport-stockholm.png';
 import port5 from '../img/portImages/react-router.png';
 
